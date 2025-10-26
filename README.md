@@ -42,7 +42,7 @@ Feel free to fork, explore, and adapt the model for your own environment.
 
 🚀 Usage
 
-Run the notebook directly:
+Run the notebook directly in Jupyter:
 
 ```bash
-simulation.ipynb
+jupyter notebook simulation.ipynb
