@@ -20,15 +20,17 @@
 
 ℹ️ Overview
 
-This project presents a **discrete-event simulation** of truck flow inside a terminal environment, modeled in Python.  
-It reproduces queue dynamics, weighbridge processing, and congestion propagation between operational zones.  
+This project presents a discrete-event simulation of truck flow inside a terminal environment, modeled in Python.
+It reproduces queue dynamics, weighbridge processing, and congestion propagation between operational zones.
 
-The simulation aims to support **process optimization**, **bottleneck analysis**, and **decision-making** in logistics systems.  
+The simulation aims to support process optimization, bottleneck analysis, and decision-making in logistics systems.
 
-Using a Jupyter Notebook (`.ipynb`) provides several benefits:
-- You can **visualize intermediate results** (queues, delays, bottlenecks) step by step.  
-- It enables **fast iteration and debugging** during model design.  
-- It’s ideal for **educational or research presentations** where explanations and outputs coexist.
+Using a Jupyter Notebook (.ipynb) provides several benefits:
+	•	You can visualize intermediate results (queues, delays, bottlenecks) step by step.
+	•	It enables fast iteration and debugging during model design.
+	•	It’s ideal for educational or research presentations, where explanations and outputs coexist.
+
+👉 Tip: To see the moving circle (the simulated truck or “bubble”) clearly, press Start, then Reset, and Start again. This refreshes the animation and ensures smooth visualization.
 
 ---
 
