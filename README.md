@@ -38,7 +38,7 @@ Using a Jupyter Notebook (.ipynb) provides several benefits:
 
 Developed by [BOUSSAHA Redha](https://github.com/Redhabou)  & KHELFAOUI Omar.
 Part of an applied research project on **logistics process optimization and simulation**.  
-This project is released under the MIT License — feel free to fork, explore, and adapt the model for your own environment.
+This project is released under the MIT License, feel free to fork, explore, and adapt the model for your own environment.
 
 ---
 
